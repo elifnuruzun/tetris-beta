@@ -2,8 +2,8 @@
 package com.brickwell.engine
 
 import com.brickwell.models.*
-import com.brickwell.systems.*
-import com.brickwell.events.*
+import com.brickwell.system.*
+import com.brickwell.event.*
 
 /**
  * Main game controller - THE BRAIN.
