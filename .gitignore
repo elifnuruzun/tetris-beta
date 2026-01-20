@@ -1,0 +1,16 @@
+# --- Kotlin & Android (The Basics) ---
+.gradle/
+build/
+*.iml
+local.properties
+.DS_Store
+
+# --- The "Future Proofing" for iOS ---
+# Prevents committing massive build folders if you accidentally build for iOS
+iosApp/build/
+DerivedData/
+
+# Prevents committing your personal window layout/settings
+*.navx
+*.user
+xcuserdata/
